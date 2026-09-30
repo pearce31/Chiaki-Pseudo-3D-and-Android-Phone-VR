@@ -13,7 +13,7 @@ On-device mods of **Chiaki** (PlayStation Remote Play client) that add stereosco
 |---|---|---|
 | **VR** | Head-tracked floating widescreen for a lensed headset — barrel-distortion lens pass, in-headset gamepad calibration, saved settings. L3 + R3 then d pad to adjust/navigate and A or X to recenter | `chiaki-vr.apk` |
 | **SBS** | Plain side-by-side 3D output, no head tracking | `chiaki-sbs.apk` |
-| **Anaglyph** | Green/magenta anaglyph 3D (for colored 3D glasses) | `chiaki-anaglyph.apk` |
+| **Anaglyph** | Green/magenta anaglyph 3D (I use trioviz inficolor glasses off amazon and it's probably the best there is as far as Anaglyph goes) | `chiaki-anaglyph.apk` |
 
 **Downloads:** grab the APK for your version from the **[Releases](../../releases)** tab.
 

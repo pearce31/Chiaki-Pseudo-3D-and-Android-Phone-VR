@@ -17,6 +17,11 @@ On-device mods of **Chiaki** (PlayStation Remote Play client) that add stereosco
 
 **Downloads:** grab the APK for your version from the **[Releases](../../releases)** tab.
 
+## Lume Pad 2 — glasses-free 3D
+A fourth variant that weaves the PS5 stream into **glasses-free 3D** on the **Lume Pad 2**'s Leia lightfield panel — no glasses, no headset, no viewer mount. Head tracking steers the views. Same Chiaki base and GPLv3 as the versions above.
+
+**Download:** `chiaki-lumepad.apk` — from the **[Releases](../../releases)** tab.
+
 ## Based on / credits
 Derivative works of the **Chiaki** project by **Florian Märkl**, licensed under
 the GNU General Public License v3.0.
@@ -47,3 +52,14 @@ The VR version's main classes live under `com/metallic/chiaki/stream/`:
 3. Rebuild and **sign** with your own key, then install.
 
 Built and maintained entirely on-device — no PC toolchain required.
+
+---
+
+## P5M (modified) — PS5 Remote Play in VR on Quest 3
+A separate app, not a Chiaki Remote Play flavor: a modified build of **P5M**, which streams PS5 Remote Play to a floating VR screen on the **Meta Quest 3**. This build uses my own custom depth 3D in place of the default.
+
+**Download:** `p5m-modified.apk` — from the **[Releases](../../releases)** tab.
+
+**Based on / credits:** [P5M](https://github.com/beecrepaldi-afk/P5M) by beecrepaldi-afk, which builds on [chiaki-ng](https://github.com/streetpea/chiaki-ng) and [Chiaki](https://github.com/thestr4ng3r/chiaki) by Florian Märkl.
+
+**License:** AGPL-3.0 (inherited from chiaki-ng / Chiaki).
